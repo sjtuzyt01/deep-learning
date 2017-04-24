@@ -2,9 +2,12 @@
 
 # Ignore downloaded datasets
 embeddings/data/
+transfer-learning/flower_photos/
+
 embeddings/text8.zip
 image-classification/cifar-10-batches-py
 tv-script-generation/save.data-00000-of-00001
+transfer-learning/tensorflow_vgg/vgg16.npy
 
 .ipynb_checkpoints/
 
