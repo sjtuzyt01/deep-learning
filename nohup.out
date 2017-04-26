@@ -138,3 +138,17 @@ I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_li
 [I 08:40:27.150 NotebookApp] Saving file at /seq2seq/sequence_to_sequence_implementation.ipynb
 [I 08:45:06.335 NotebookApp] Saving file at /seq2seq/sequence_to_sequence_implementation.ipynb
 [I 08:47:43.266 NotebookApp] Saving file at /seq2seq/sequence_to_sequence_implementation.ipynb
+[W 09:38:43.455 NotebookApp] Notebook reinforcement/Q-learning-cart.ipynb is not trusted
+[I 09:38:46.650 NotebookApp] Kernel started: 8c4b4dba-3701-4175-947e-acfc77bee0bd
+[I 09:38:46.653 NotebookApp] 302 GET /notebooks/reinforcement/assets/cart-pole.jpg (58.247.6.226) 0.73ms
+[I 09:38:46.654 NotebookApp] 302 GET /notebooks/reinforcement/assets/atari-network.png (58.247.6.226) 0.63ms
+[I 09:38:46.655 NotebookApp] 302 GET /notebooks/reinforcement/assets/q-network.png (58.247.6.226) 0.62ms
+[I 09:38:47.179 NotebookApp] 302 GET /notebooks/reinforcement/assets/deep-q-learning.png (58.247.6.226) 0.91ms
+[W 09:38:50.577 NotebookApp] 404 GET /static/components/MathJax/jax/element/mml/optable/BasicLatin.js?rev=2.6.0 (58.247.6.226) 7.55ms referer=http://54.235.232.201:8888/notebooks/reinforcement/Q-learning-cart.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+[I 09:40:52.695 NotebookApp] Saving file at /reinforcement/Q-learning-cart.ipynb
+[W 09:40:52.695 NotebookApp] Saving untrusted notebook reinforcement/Q-learning-cart.ipynb
