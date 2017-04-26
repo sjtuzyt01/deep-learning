@@ -8,6 +8,7 @@ embeddings/text8.zip
 image-classification/cifar-10-batches-py
 tv-script-generation/save.data-00000-of-00001
 transfer-learning/tensorflow_vgg/vgg16.npy
+transfer-learning/codes
 
 .ipynb_checkpoints/
 

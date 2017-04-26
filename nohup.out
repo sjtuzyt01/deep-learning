@@ -1,0 +1,101 @@
+[I 05:03:23.611 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 05:03:45.882 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 05:03:45.882 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 05:03:45.901 NotebookApp] Serving notebooks from local directory: /home/carnd/deep-learning
+[I 05:03:45.901 NotebookApp] 0 active kernels 
+[I 05:03:45.901 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 05:03:45.901 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 05:03:45.901 NotebookApp] No web browser found: could not locate runnable browser.
+[I 05:03:47.104 NotebookApp] 302 GET / (58.247.6.226) 1.03ms
+[W 05:04:31.397 NotebookApp] Notebook transfer-learning/Transfer_Learning.ipynb is not trusted
+[I 05:04:32.923 NotebookApp] Kernel started: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+[I 05:04:33.432 NotebookApp] 302 GET /notebooks/transfer-learning/assets/cnnarchitecture.jpg (58.247.6.226) 0.70ms
+[W 05:06:00.455 NotebookApp] Notebook transfer-learning/Transfer_Learning_Solution.ipynb is not trusted
+[I 05:06:01.164 NotebookApp] 302 GET /notebooks/transfer-learning/assets/cnnarchitecture.jpg (58.247.6.226) 0.87ms
+[I 05:06:01.614 NotebookApp] Kernel started: e9a6aa64-0339-4f55-a8a9-35fab574b3c7
+[I 05:06:34.128 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 05:07:56.794 NotebookApp] Kernel interrupted: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+[I 05:08:03.656 NotebookApp] Saving file at /transfer-learning/Transfer_Learning_Solution.ipynb
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+[I 05:08:16.844 NotebookApp] Kernel interrupted: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+[I 05:08:33.200 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 05:10:33.198 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 05:31:53.615 NotebookApp] 302 GET /notebooks/transfer-learning/assets/cnnarchitecture.jpg (58.247.6.226) 0.67ms
+[I 05:42:34.398 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 05:56:34.359 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 06:00:32.928 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 06:01:22.836 NotebookApp] Kernel interrupted: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+[I 06:01:33.507 NotebookApp] Kernel interrupted: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+[I 06:01:47.574 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 06:01:55.399 NotebookApp] Kernel restarted: de3a7fb3-f11a-48bd-9e53-1814f8c66e86
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.8.0 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.8.0 locally
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.11GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 06:02:33.844 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 06:04:34.088 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 06:06:32.925 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[W 06:22:24.175 NotebookApp] WebSocket ping timeout after 119725 ms.
+[I 06:54:34.647 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:02:34.907 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:04:32.926 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:08:33.195 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:10:34.115 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:12:33.770 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:14:32.924 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:22:35.978 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:24:34.185 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:26:33.475 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:28:33.206 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:30:32.923 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:32:32.921 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:40:34.355 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:42:34.311 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:44:34.161 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+[I 07:46:35.299 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 07:48:34.575 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 07:49:14.078 NotebookApp] Saving file at /transfer-learning/Transfer_Learning.ipynb
